@@ -1,0 +1,1 @@
+console.log(123 && 0 && 123 && underfind && 0);
